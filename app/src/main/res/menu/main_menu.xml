@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/privacy_policy"
+        android:title="Privacy Policy" />
+    <item
+        android:id="@+id/feedback"
+        android:title="Feedback" />
+    <item
+        android:id="@+id/share"
+        android:title="Share" />
+    <item
+        android:icon="@drawable/cleaner"
+        app:showAsAction="always"
+        android:id="@+id/cleaner"
+        android:title="Cleaner" />
+
+
+</menu>
